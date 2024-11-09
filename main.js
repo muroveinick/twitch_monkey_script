@@ -1,6 +1,8 @@
 (function () {
     'use strict';
 
+    console.log(22);
+
     const blocked_user = 'lovely';
 
     const SELECTORS_MAP = {
